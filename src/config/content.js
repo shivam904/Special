@@ -23,7 +23,7 @@ export const siteConfig = {
   audio: {
     enabled: true,
     src: "/audio/music.mp3",
-    volume: 0.5,
+    volume: 0.8, // Higher volume for better audibility
   },
 };
 
@@ -78,7 +78,7 @@ export const sections = [
   {
     id: "memory-7",
     type: "photo",
-    text: "The jhumkas, the embroidery, the grace.\nKuch traditional hits different.",
+    text: "The jhumkas, the embroidery, the grace.\nTraditional hits different.",
     image: "/images/attachments/p-10.jpg",
     alt: "Beautiful in traditional attire",
     music: "/audio/music.mp3",
